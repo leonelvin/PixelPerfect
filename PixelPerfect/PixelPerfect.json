@@ -4,6 +4,7 @@
   "InternalName": "PixelPerfectPrivate",
   "AssemblyVersion": "3.3.0.0",
   "Description": "Showing exactly where to stand since 2020.",
+  "DalamudApiLevel": 12,
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/leonelvin/PixelPerfect/",
   "Tags": [
@@ -21,5 +22,7 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/leonelvin/PixelPerfect/master/images/icon.png",
   "Punchline": "Reveals your hitbox, with customisable features.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/leonelvin/PixelPerfect/releases/download/v1.1/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/leonelvin/PixelPerfect/releases/download/v1.1/latest.zip"
 }
