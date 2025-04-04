@@ -1,5 +1,4 @@
 
-using System;
 using FFXIVClientStructs.FFXIV.Client.Game.UI;
 
 namespace PixelPerfect
@@ -8,7 +7,7 @@ namespace PixelPerfect
   {
     public static bool IsWeaponUnsheathed()
     {
-      return Convert.ToBoolean(UIState.Instance()->WeaponState.IsUnsheathed);
+      return UIState.Instance()->WeaponState.IsUnsheathed;
     }
   }
 }
